@@ -2,7 +2,7 @@
 
 This is my boylerplate for a 7.x laravel application using React.js front end using Docker.
 
-> Avaiable on my github [@NXML](https://github.com/nxml).
+> Avaiable on my github [@NXML](https://github.com/nxml/).
 
 
 
