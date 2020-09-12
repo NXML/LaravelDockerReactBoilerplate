@@ -21,7 +21,7 @@ docker-compose build
 Installing  dependencies composer
 
 ```docker 
-docker run --rm composer $(pwd):/app composer install
+docker run --rm composer -v $(pwd):/app composer install
 ```
 
 Installing  dependencies npm
